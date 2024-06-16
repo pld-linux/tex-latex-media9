@@ -2,7 +2,8 @@ Summary:	The media9 LaTeX package
 Summary(pl.UTF-8):	Pakiet LaTeXa media9
 Name:		tex-latex-media9
 Version:	1.25
-Release:	1
+# requires 2022 LaTeX3
+Release:	0.1
 License:	LaTeX Project Public License
 Group:		Applications/Publishing
 Source0:	http://mirrors.ctan.org/macros/latex/contrib/media9.zip
